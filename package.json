@@ -28,6 +28,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://traianbelciug.github.io/Products-and-Offers/",
   "browserslist": {
     "production": [
       ">0.2%",

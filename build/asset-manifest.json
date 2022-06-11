@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.270d67e4.chunk.css",
-    "main.js": "/static/js/main.11f887eb.chunk.js",
-    "main.js.map": "/static/js/main.11f887eb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6e0831ec.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6e0831ec.js.map",
-    "static/css/2.6b560088.chunk.css": "/static/css/2.6b560088.chunk.css",
-    "static/js/2.cb338195.chunk.js": "/static/js/2.cb338195.chunk.js",
-    "static/js/2.cb338195.chunk.js.map": "/static/js/2.cb338195.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.6b560088.chunk.css.map": "/static/css/2.6b560088.chunk.css.map",
-    "static/css/main.270d67e4.chunk.css.map": "/static/css/main.270d67e4.chunk.css.map",
-    "static/js/2.cb338195.chunk.js.LICENSE.txt": "/static/js/2.cb338195.chunk.js.LICENSE.txt"
+    "main.css": "/Products-and-Offers/static/css/main.270d67e4.chunk.css",
+    "main.js": "/Products-and-Offers/static/js/main.11f887eb.chunk.js",
+    "main.js.map": "/Products-and-Offers/static/js/main.11f887eb.chunk.js.map",
+    "runtime-main.js": "/Products-and-Offers/static/js/runtime-main.39f0c4fe.js",
+    "runtime-main.js.map": "/Products-and-Offers/static/js/runtime-main.39f0c4fe.js.map",
+    "static/css/2.6b560088.chunk.css": "/Products-and-Offers/static/css/2.6b560088.chunk.css",
+    "static/js/2.cb338195.chunk.js": "/Products-and-Offers/static/js/2.cb338195.chunk.js",
+    "static/js/2.cb338195.chunk.js.map": "/Products-and-Offers/static/js/2.cb338195.chunk.js.map",
+    "index.html": "/Products-and-Offers/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/Products-and-Offers/static/css/2.6b560088.chunk.css.map",
+    "static/css/main.270d67e4.chunk.css.map": "/Products-and-Offers/static/css/main.270d67e4.chunk.css.map",
+    "static/js/2.cb338195.chunk.js.LICENSE.txt": "/Products-and-Offers/static/js/2.cb338195.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e0831ec.js",
+    "static/js/runtime-main.39f0c4fe.js",
     "static/css/2.6b560088.chunk.css",
     "static/js/2.cb338195.chunk.js",
     "static/css/main.270d67e4.chunk.css",
